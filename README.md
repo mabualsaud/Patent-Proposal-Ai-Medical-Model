@@ -1,4 +1,4 @@
-# Patent Proposal-AI Medical-Model for clinical Reasoning simulation 
+# Patent Proposal-AI Medical Model for clinical Reasoning simulation 
 ## 🧠 Patent Proposal:
 
 ### Research conducted to address the current issues in medical LLMs that prevent their safe integration into healthcare organizations, including the potential hazards to patient safety from medical outputs containing hallucinations.
