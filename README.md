@@ -1,0 +1,1 @@
+# Patent-Proposal-Ai-Medical-Model
